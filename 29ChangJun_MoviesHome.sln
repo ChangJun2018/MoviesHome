@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "29ChangJun_MoviesHome", ".", "{7222C2B6-FFC5-4578-B84A-774B5C1352BC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/29ChangJun_MoviesHome"
+		Debug.AspNetCompiler.PhysicalPath = "C:\Users\Administrator\Desktop\29ChangJun_MoviesHome\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\29ChangJun_MoviesHome\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/29ChangJun_MoviesHome"
+		Release.AspNetCompiler.PhysicalPath = "C:\Users\Administrator\Desktop\29ChangJun_MoviesHome\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\29ChangJun_MoviesHome\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54945"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7222C2B6-FFC5-4578-B84A-774B5C1352BC}.Debug|.NET.ActiveCfg = Debug|.NET
+		{7222C2B6-FFC5-4578-B84A-774B5C1352BC}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
